@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lufr23](https://github.com/Lufr23)
 
-- 💬 Ask me about **Java**
-
 - 📫 How to reach me **luiza.reis023@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/luiza-f-reis/](https://www.linkedin.com/in/luiza-f-reis/)
