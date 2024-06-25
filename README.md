@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on [Screenmatch](https://github.com/Lufr23/screenmatch/tree/master)
 
-- 🌱 I’m currently learning **Java, Spring, SQL**
+- 🌱 I’m currently learning **Java, Spring, SQL** and studying for a Java cloud Developer SAP certificate.
+  In this project we learned about Docker, Kubernetes, TDD, Test Unit, Clean code, Agile Methodologies, Microservices and CI/CD.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lufr23](https://github.com/Lufr23)
 
